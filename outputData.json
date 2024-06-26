@@ -1,0 +1,27 @@
+{
+    "math": {
+        "algebra": {
+            "number-sense": [
+                {
+                    "question": "5) In an assembly election, if three candidates get 32135 votes, 29048 votes and 4951 votes respectively, what is the total number of votes cast by a voter in that election?",
+                    "final_answer": "66134",
+                    "solution_steps": [
+                        "32135 + 29048 + 4951",
+                        "66134"
+                    ]
+                }
+            ]
+        },
+        "probability": {
+            "arithmetic": [
+                {
+                    "question": "4) There were 26759 trees in a protected area 13842 more trees were planted there during the forest festival then what is the total number of trees in the forest area? A) 50701 B) 40601 C) 40701 (D) 40501",
+                    "final_answer": "40601",
+                    "solution_steps": [
+                        "26759 + 13842"
+                    ]
+                }
+            ]
+        }
+    }
+}
